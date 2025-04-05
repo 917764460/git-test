@@ -9,5 +9,7 @@
 public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("蔡徐坤");
+        System.out.println("王源");
+        System.out.println("丁真");
     }
 }
