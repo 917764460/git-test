@@ -22,5 +22,7 @@ public class GitTest {
         System.out.println("丁真，丁姥爷 hot-fix test");
 
         System.out.println("keep quiet-----------hot fix");
+
+        System.out.println("山有木兮卿有意");
     }
 }
