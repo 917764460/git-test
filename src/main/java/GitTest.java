@@ -16,7 +16,6 @@ public class GitTest {
         System.out.println("四川芬达");
         System.out.println("男神");
 
-
         System.out.println("丁真，丁姥爷 master test");
     }
 }
