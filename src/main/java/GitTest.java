@@ -9,8 +9,10 @@
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("丢手绢～～～");
-        System.out.println("丢手绢～～～");
-        System.out.println("丢手绢～～～");
-        System.out.println("丢手绢～～～");
+        System.out.println("轻轻的放在小朋友滴后面");
+        System.out.println("大家不要告诉他");
+        System.out.println("快点快点抓住他");
+        System.out.println("快点快点抓住他");
+        System.out.println("四川芬达");
     }
 }
