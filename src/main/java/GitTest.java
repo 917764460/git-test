@@ -26,5 +26,7 @@ public class GitTest {
         System.out.println("山有木兮卿有意");
 
         System.out.println("锄禾日当午");
+
+        System.out.println("汗滴禾下土");
     }
 }
